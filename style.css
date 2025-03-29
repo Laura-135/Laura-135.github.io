@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+#grad {
+  background-image: linear-gradient(to right, pink , darkblue);
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+.red-header {
+
+}
