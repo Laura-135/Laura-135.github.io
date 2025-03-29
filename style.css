@@ -13,6 +13,8 @@ h1 {
 }
 
 .lora-body {
+  width: "800px";
+  margin: "0 auto";
   font-family: "Lora", serif;
   font-optical-sizing: auto;
   font-weight: 400;
