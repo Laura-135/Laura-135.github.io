@@ -1,3 +1,6 @@
+body {
+  width: "100%";  
+}
 
 #grad {
   background-image: linear-gradient(to right, pink , darkblue);
