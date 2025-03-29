@@ -10,7 +10,7 @@ body {
   background-image: linear-gradient(to right, pink , darkblue);
 }
 
-div {
+div .content {
   position: relative;
   display: flex;
   width: 400px;
