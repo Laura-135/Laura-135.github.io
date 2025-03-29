@@ -8,6 +8,13 @@ h1 {
   margin-left: 20px;
 }
 
+.lora-body {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .red-header {
 
 }
