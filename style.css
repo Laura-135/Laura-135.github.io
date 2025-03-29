@@ -1,5 +1,7 @@
 
 #grad {
+  width: "800px";
+  margin: "0 auto";
   background-image: linear-gradient(to right, pink , darkblue);
   font-family: "Lora", serif;
   font-optical-sizing: auto;
