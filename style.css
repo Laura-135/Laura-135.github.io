@@ -1,6 +1,10 @@
 
 #grad {
   background-image: linear-gradient(to right, pink , darkblue);
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
