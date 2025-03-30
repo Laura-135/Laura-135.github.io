@@ -7,7 +7,7 @@ body {
   background-image: linear-gradient(to right, pink , darkblue);
 }
 
-#first-part {
+#first-page {
   position: relative;
   display: flex;
   flex-direction: column;
