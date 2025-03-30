@@ -7,6 +7,10 @@ body {
   background-image: linear-gradient(to right, pink , darkblue);
 }
 
+#regular-bg {
+  background: rgb(255, 255, 237);
+}
+
 #first-page {
   position: relative;
   display: flex;
