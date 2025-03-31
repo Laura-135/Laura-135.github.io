@@ -50,3 +50,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
 }
+
+p .hi-liner {
+  line-height: 30px; 
+}
