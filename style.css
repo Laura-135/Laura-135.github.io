@@ -63,6 +63,6 @@ li {
   font-style: normal;
 }
 
-p #hi-liner {
+p.hi-liner {
   line-height: 30px; 
 }
