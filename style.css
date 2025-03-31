@@ -1,5 +1,9 @@
 /* Laura Van den End - March 30, 2025 - My Life As A Moth - Style file */
 
+img {
+  border: 5px solid #555;
+}
+
 body {
   position: relative;
   width: 100%;
